@@ -1,0 +1,14 @@
+.action {
+  cursor: pointer;
+  float: right;
+  color:red;
+  margin: 5px;
+}
+
+.dot3 {
+  display:inline-block;
+  width:80%;
+  white-space: nowrap;
+  overflow:hidden !important;
+  text-overflow: ellipsis;
+}
